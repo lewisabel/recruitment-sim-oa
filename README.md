@@ -9,7 +9,7 @@ If selected, you will be questioned during the interview about your solution to 
 ## The Assesment
 For this assessment, we want you to simulate how fast a ball might roll down an incline. You may assume that the ball begins its motion at the top and is stationary at first, and that the ball does not slip while rolling.
 
-**Your task is to write a function that returns a ball's velocity after rolling down an incline.**
+**Your task is to write a function that returns a ball's velocity after it had rolled down an incline.**
 
 ### Parameters
 
