@@ -2,7 +2,7 @@
 
 We appreciate your interest in the software simulation sub-team and UBC Solar!
 
-To evaluate how well you can interact with some of the prerequisite knowledge for this role, we have designed an online assessment for you.
+To evaluate how well you can problem solve and interact with some of the prerequisite knowledge for this role, we have designed an online assessment for you.
 
 If selected, you will be questioned during the interview about your solution to gauge how effectively you can defend and explain technical solutions.
 
