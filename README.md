@@ -30,9 +30,4 @@ If you find that coding the solution is too difficult, you can submit a response
 
 ## Submission
 
-This is a template repository, use it to create your own repository where you edit `oa.py` with your solution. Then, provide a link to your repository inside your application. Please ensure you keep your repository public.
-
-This is a template repository, press the `Use this template` button to build your own copy of it and edit "oa.py" with your solution. Then provide a link to your repository inside your application.
-Make sure your repository is public.
-
-
+Upload your `oa.py` or the text file you produced as a response to this directly to the application form!
