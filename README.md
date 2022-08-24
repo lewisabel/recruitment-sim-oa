@@ -30,4 +30,6 @@ If you find that coding the solution is too difficult, you can submit a response
 
 ## Submission
 
-Upload your `oa.py` or the text file you produced as a response to this directly to the application form!
+Paste the contents of your `oa.py`, or the text file you produced as a response to this assessment, in the application form!
+
+Please use spaces, not tabs, for indentation (this will be easier for you to work with in the form).
