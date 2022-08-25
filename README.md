@@ -18,6 +18,7 @@ The input to this function is described in the `oa.py` file and is as follows:
 - Mass: the mass of the ball (kilograms)
 - Length (_l_): the length of the slope (meters)
 - Incline (_θ_): the angle of the slope (degrees)
+- Kinetic friction coefficient: kinetic friction coefficient of the slope's surface (0.0 - 1.0)
 
 ![Ball on an incline](https://haygot.s3.amazonaws.com/questions/989666_bf94b67187c945ebbd8f5eda08768684.png)
 
