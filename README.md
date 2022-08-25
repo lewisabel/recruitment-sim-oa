@@ -24,7 +24,8 @@ The input to this function is described in the `oa.py` file and is as follows:
 
 [Image link](https://haygot.s3.amazonaws.com/questions/989666_bf94b67187c945ebbd8f5eda08768684.png)
 
-**At the very least, you should utilise the height parameter in your answer. However, as a bonus, you may try to create a more realistic model utilising any of the other parameters passed.**
+
+### At the very least, you should utilise the height parameter in your answer. However, as a bonus, you may try to create a more realistic model utilising any of the other parameters passed.
 
 Please provide at least two test cases for this function.
 If you find that coding the solution is too difficult, you can submit a response in words instead. However, we strongly urge you to provide some code in addition to that.
