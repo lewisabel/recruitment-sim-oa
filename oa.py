@@ -6,5 +6,5 @@ length: the length of the slope (meters)
 incline: the angle of the slope (degrees)
 kinetic friction coefficient: kinetic friction coefficient of the slope's surface (0.0 - 1.0)
 '''
-def finalBallVelocity(self, height: int, length: int, incline: int, mass: int, friction: float) -> int:
+def finalBallVelocity(height: int, length: int, incline: int, mass: int, friction: float) -> int:
     
