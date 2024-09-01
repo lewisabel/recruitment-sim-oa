@@ -58,4 +58,6 @@ def test_all():
     test_exception_4()
 
     test_value_1()
-    test_value_2
+    test_value_2()
+
+    print("all tests passed")
